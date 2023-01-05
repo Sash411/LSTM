@@ -1,3 +1,3 @@
 # LSTM
 Long Short Term Memory.
-This word predication model is done in Jupyter Notebook.
+This word prediction model is done in Jupyter Notebook.
